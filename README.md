@@ -36,6 +36,6 @@ The Exploratory Data Analysis conducted in this project has provided valuable in
 
 ## PDF Report
 
-You can find the detailed Exploratory Data Analysis (EDA) report in [this PDF file](link.pdf).
+You can find the detailed Exploratory Data Analysis (EDA) report in [this PDF file](EDA Report.pdf).
 
 ![PDF Report](report_cover.png)
