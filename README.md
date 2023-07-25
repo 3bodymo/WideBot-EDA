@@ -38,4 +38,4 @@ The Exploratory Data Analysis conducted in this project has provided valuable in
 
 You can find the detailed Exploratory Data Analysis (EDA) report in [this PDF file](EDA-Report.pdf).
 
-![PDF Report](EDA-Report.pdf)
+![PDF Report](report_cover.png)
